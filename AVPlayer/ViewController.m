@@ -8,12 +8,8 @@
 
 #import "ViewController.h"
 #import <AVFoundation/AVFoundation.h>
-//#import <AVFoundation/AVAsset.h>
-//#import <AVFoundation/AVAssetImageGenerator.h>
-//#import <AVFoundation/AVTime.h>
-//#import <MediaPlayer/MediaPlayer.h>
 #import <AVKit/AVKit.h>
-//#import <AVFoundation/AVPlayer.h>
+
 
 #define screenW [[UIScreen mainScreen] bounds].size.width
 
